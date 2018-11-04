@@ -1,0 +1,15 @@
+{
+  "name": "orange-theme-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Dark theme with gentle orange, green and blue tones.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/orange-theme-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
